@@ -13,3 +13,11 @@ let Stefan: Kind = {
     age: 15,
     isGay: false
 }
+
+let Lena: Kind = {
+    name: "Lena",
+    title: "Lena Gaming",
+    desc: "I am not lesbian",
+    age: 15,
+    isGay: true
+}
